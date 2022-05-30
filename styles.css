@@ -48,7 +48,9 @@ button {
   border-bottom: 2px solid #1e830b;
   cursor: pointer;
 }
+button:hover{background: #20a150;}
 button:active {
   position: relative;
   top: 1px;
+  transition:0.3s;
 }
