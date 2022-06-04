@@ -23,7 +23,8 @@ button {
   font-family: inherit;
   font-weight: bold;
   font-size: 18px;
-  height: 44px;
+  height:100px;
+  length:100px;
   border-radius: 4px;
   outline: 0;
 }
